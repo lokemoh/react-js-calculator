@@ -1,4 +1,4 @@
 # React App - Calculator
 
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
